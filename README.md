@@ -5,7 +5,9 @@
 
 * Unzip the file once the zip file downloads.
 
-* Press the __"Open Jupyter Notebook"__ in FigJam and drag the `jupyterPlayground.ipynb` file into the left sidebar among the other folders (e.g. __"data"__ and __"notebooks"__) but not inside of them.
+* Navigate back to FigJam and press the __"Open Jupyter Notebook"__ button.
+
+* Drag the `jupyterPlayground.ipynb` file into the left sidebar among the other folders (e.g. __"data"__ and __"notebooks"__) but not inside of them.
 
 * Click on the `jupyterPlayground.ipynb` file inside the widget pop-up and press on the file icon on the far left side bar to maximize the screen real estate for your jupyter notebook.
 
